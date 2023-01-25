@@ -49,4 +49,9 @@ The express app uses routes to handle the endpoints which start with /user. This
 
 ### Instruction to run this application
   open terminal and type 
+     ```
      npm start
+     ```
+     ```
+     npm run start_auth
+     ```

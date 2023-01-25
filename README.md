@@ -1,4 +1,4 @@
-                                   #CRUD JWT WITH NODE
+# CRUD JWT WITH NODE
 Created a Friend's list using Express server. This application allow to add a friend with the following details: 
    First name, 
    Last name, 

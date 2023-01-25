@@ -1,0 +1,17 @@
+{
+  "name": "crud_with_node",
+  "version": "1.0.0",
+  "description": "An application with API endpoints to perform Create, Retrieve, Update and Delete operations on the above data using an Express serve.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "start_auth": "nodemon index_withauth.js"
+  },
+  "author": "Aashish Kumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}

@@ -1,12 +1,14 @@
 # CRUD JWT WITH NODE
 Created a Friend's list using Express server. This application allow to add a friend with the following details: 
+```
    First name, 
    Last name, 
    Email and 
-   Date of birth.
+   Date of birth
+```
  The application is providing the ability to retrieve details, change details and delete the details.
 
- An application with API endpoints to perform Create, Retrieve, Update and Delete operations on the above data using an Express serve
+ An application with API endpoints to perform Create, Retrieve, Update and Delete operations on the above data using an Express server.
 
  ## Implemented authentication at the session level using JSON Web Tokens (JWT) for authorized access.
 

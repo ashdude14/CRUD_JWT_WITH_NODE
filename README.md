@@ -41,3 +41,7 @@ Created a Friend's list using Express server. This application allow to add a fr
 
 The express app uses routes to handle the endpoints which start with /user. This means that for all the endpoints starting with /user, the server will go and look for an endpoint handler in users.js.
     app.use("/user", routes);    
+
+### Instruction to run this application
+  open terminal and type 
+     npm start

@@ -42,6 +42,9 @@ Created a Friend's list using Express server. This application allow to add a fr
 The express app uses routes to handle the endpoints which start with /user. This means that for all the endpoints starting with /user, the server will go and look for an endpoint handler in users.js.
     app.use("/user", routes);    
 
+
+## All these endpoints are accessible by anyone. SO we added authentication to the CRUD operations. This code has been implemented in index_withauth.js.
+
 ### Instruction to run this application
   open terminal and type 
      npm start
